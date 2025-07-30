@@ -1,0 +1,13 @@
+V. Vinay (SE23UARI129) –  Responsible for project leadership,
+                          machine learning implementation,
+                          data preprocessing,
+                          salary simulation,
+                          result analysis,
+                          financial impact assessment,
+                          visualization dashboard,
+                          strategic recommendations,
+                          complete coding,
+                          testing,
+                          debugging,
+                          documentation,
+                          and report formatting 
